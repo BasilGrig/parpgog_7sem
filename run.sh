@@ -1,0 +1,2 @@
+./helloworld2_omp
+
